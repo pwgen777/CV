@@ -7,8 +7,9 @@ E-mail – cherepanovw.andrey@gmail.com</br>
 I'm a self-taught full stack developer specialized on a web.
 <h3>Skills</h3>
 ⋅Ruby on rails</br>
-⋅Middleman</br>
 ⋅Node.js</br>
+⋅React</br>
+⋅Middleman</br>
 <h4>Back-end</h4>
 ⋅Ruby on rails</br>
 ⋅Deployment</br>
@@ -17,6 +18,7 @@ I'm a self-taught full stack developer specialized on a web.
 ⋅Heroku</br>
 ⋅Postgres</br>
 <h4>Front-end</h4>
+⋅React</br>
 ⋅Bootstrap</br>
 ⋅JS,HTML5,CSS</br>
 ⋅Webpack</br>
