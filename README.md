@@ -26,7 +26,7 @@ I'm a self-taught full stack developer specialized on a web.
 ⋅Amazon S3</br>
 <h4>Work</h4>
 <h5>Assembly</h5>
-  = site // http://213.139.210.35/ </br>
+  = site // https://assembly.ru/ </br>
   = technologies // Rails, Postgres, Webpack, Deployment, Nginx, Ubuntu </br>
  <h5>n+1</h5>
   = about // Creation of parsers for scraping sites, integrating the received data in Airtable </br>
