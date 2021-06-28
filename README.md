@@ -24,6 +24,7 @@ I'm a self-taught full stack developer specialized on a web.
 ⋅Webpack</br>
 <h4>Cloud</h4>
 ⋅Amazon S3</br>
+⋅Cloudinary</br>
 <h4>Work</h4>
 <h5>Assembly</h5>
   = site // https://assembly.ru/ </br>
