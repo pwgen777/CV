@@ -29,7 +29,7 @@ I'm a self-taught full stack developer specialized on a web.
 <h5>Assembly</h5>
   = site // https://assembly.ru/ </br>
   = technologies // Rails, Postgres, Webpack, Deployment, Nginx, Ubuntu </br>
- <h5>n+1</h5>
+ <h5>// https://nplus1.cc/ n+1</h5>
   = about // Creation of parsers for scraping sites, integrating the received data in Airtable </br>
   = technologies // Node.js, Airtable API, Slack API </br>
  <h5>Group-IB</h5>
