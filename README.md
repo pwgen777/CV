@@ -8,6 +8,7 @@ I'm a self-taught full stack developer specialized on a web.
 <h3>Skills</h3>
 ⋅Ruby on rails</br>
 ⋅Node.js</br>
+⋅feathersjs</br>
 ⋅React</br>
 ⋅Middleman</br>
 <h4>Back-end</h4>
