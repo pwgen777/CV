@@ -27,6 +27,9 @@ I'm a self-taught full stack developer specialized on a web.
 ⋅Amazon S3</br>
 ⋅Cloudinary</br>
 <h4>Work</h4>
+<h5>sasha-sin</h5>
+  = site // https://sasha-sin.com/ </br>
+  = technologies // Rails, Postgres, React, Webpack, Deployment, Nginx, Ubuntu </br>
 <h5>Assembly</h5>
   = site // https://assembly.ru/ </br>
   = technologies // Rails, Postgres, Webpack, Deployment, Nginx, Ubuntu </br>
