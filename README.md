@@ -35,7 +35,8 @@ I'm a self-taught full stack developer specialized on a web.
   = technologies // Rails, Postgres, Webpack, Deployment, Nginx, Ubuntu </br>
  <h5> n+1</h5>
   = https://nplus1.cc/ </br>
-  = about // Creation of parsers for scraping sites, integrating the received data in Airtable </br>
+  = 1 // Creation of parsers for scraping sites, data analysis, statistics integrating the received data in Airtable </br>
+  = 2 // Developing admin page of app
   = technologies // Node.js, Airtable API, Slack API </br>
  <h5>Group-IB</h5>
   = about // Metranpag, new content development </br>
