@@ -11,6 +11,7 @@ I'm a self-taught full stack developer specialized on a web.
 ⋅feathersjs</br>
 ⋅React</br>
 ⋅Middleman</br>
+⋅GA</br>
 <h4>Back-end</h4>
 ⋅Ruby on rails</br>
 ⋅Deployment</br>
@@ -18,6 +19,7 @@ I'm a self-taught full stack developer specialized on a web.
 ⋅Nginx</br>
 ⋅Heroku</br>
 ⋅Postgres</br>
+⋅Capistrano</br>
 <h4>Front-end</h4>
 ⋅React</br>
 ⋅Bootstrap</br>
